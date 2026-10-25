@@ -1,6 +1,6 @@
 # Ames Housing — Data Cleaning and Quality Audit
 
-This is my Week 1 data-quality task using the Kaggle **House Prices — Advanced Regression Techniques** (Ames Housing) dataset. The work covers missing values, duplicates, outliers, data types, and cleaning decisions. The regression target is `SalePrice`; I did not use it for the cleaning decisions.
+This is my Week 1 data-quality task at NeuroFive Solutions using the Kaggle **House Prices — Advanced Regression Techniques** (Ames Housing) dataset. The work covers missing values, duplicates, outliers, data types, and cleaning decisions. The regression target is `SalePrice`; I did not use it for the cleaning decisions.
 
 ## Main results
 
