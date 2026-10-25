@@ -1,0 +1,4 @@
+Column,Lower_Bound,Upper_Bound,Outlier_Count,Decision
+GrLivArea,158.62,2747.62,31,Keep and flag; unusual does not prove an error
+LotArea,1481.5,17673.5,69,Keep and flag; unusual does not prove an error
+GarageArea,-27.75,938.25,21,Keep and flag; unusual does not prove an error
